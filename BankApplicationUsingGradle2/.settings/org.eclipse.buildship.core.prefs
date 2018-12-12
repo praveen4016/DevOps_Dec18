@@ -1,0 +1,8 @@
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(C\:\\Users\\pdontams\\Downloads\\gradle-2.14-all\\gradle-2.14))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=C\:/Users/pdontams/Downloads/gradle-2.14-all/gradle-2.14/bin
+offline.mode=false
+override.workspace.settings=true
